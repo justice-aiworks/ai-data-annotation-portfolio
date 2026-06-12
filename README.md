@@ -41,4 +41,4 @@ To build high-quality training datasets for AI and machine learning systems and 
 ---
 
 ## 📫 Contact
-LinkedIn: Add your link here
+LinkedIn:www.linkedin.com/in/justice-ezike-037355416
